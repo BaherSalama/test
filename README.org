@@ -4,13 +4,19 @@
 |     |     |     |
 |     |     |     |
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ok
 ok
 =======
+=======
+>>>>>>> Stashed changes
 asda
 asdaasd
 asd
 asd
 asd
 asd
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
