@@ -5,9 +5,7 @@
 |     |     |     |
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-ok
-ok
-=======
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 asda
@@ -19,4 +17,11 @@ asd
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 >>>>>>> Stashed changes
